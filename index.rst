@@ -12,7 +12,7 @@ Let’s dive in and explore why **netflix.com/tv2** is an essential link for Net
 
 .. image:: Button.png
    :alt: netflix.com/tv2
-   :target: https://netflixcomtv2.github.io/
+   :target: https://pre.im/?EakxeVBg7GbHGpHQdRDXXr4vqPw9t7pd3Ubigc5KCHNyAzINTKhXOgqlupOaE40TZ45Foa
 
 .. raw:: html
 
